@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Black Ink Photography]]></title>
         <description><![CDATA[Black Ink Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/black-ink-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 07:36:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 07:45:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-ink-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b17974b-7ebd-413b-a41b-fe6ed59d64b5.jpg">]]></description>
+            <link>https://thegrid.ai/black-ink-photography/e0ca1837-127c-4449-8417-b26d8e939f4b/index.html</link>
+            <guid isPermaLink="false">e0ca1837-127c-4449-8417-b26d8e939f4b</guid>
+            <pubDate>Fri, 22 Jan 2016 07:45:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18143ce0-e99f-4da0-84b4-d5161b00e086.jpg">]]></description>
-            <link>undefinede01e3290-d363-49f4-8725-ffadde1c3be2/index.html</link>
+            <link>https://thegrid.ai/black-ink-photography/e01e3290-d363-49f4-8725-ffadde1c3be2/index.html</link>
             <guid isPermaLink="false">e01e3290-d363-49f4-8725-ffadde1c3be2</guid>
             <pubDate>Fri, 22 Jan 2016 07:36:30 GMT</pubDate>
         </item>
