@@ -1,7 +1,7 @@
 name: Black Ink Photography
 favicon: null
-layout_spectrum: 0.4084736732766032
-typography_spectrum: 0.9828413878567517
+layout_spectrum: 0
+typography_spectrum: 0.50211
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ebf4f1'
+    - '#0b0513'
+    - '#647070'
+    - '#9250e8'
+    - '#8ba49e'
   brandStrength: 0.4370471586007625
   lightness: 0.3468316993676126
   saturation: 0.5092101010959595
