@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BES2tKxnk65/?taken-by=deviousrex&hl=en'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-24T19:37:13.961Z'
+dateModified: '2016-04-24T19:36:13.072Z'
 author:
   - name: deviousrex
     url: 'https://www.instagram.com/deviousrex'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1230286246683496121'
     type: ios
@@ -25,17 +28,16 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BES2tKxnk65/?taken-by=deviousrex&hl=en'
 title: 'Model:@unholyvirtuoso MUAH:@thebirdbones Latex by @sensorydelightlatex'
-datePublished: '2016-04-24T19:31:21.252Z'
-dateModified: '2016-04-24T19:29:30.485Z'
-description: ''
-starred: false
 sourcePath: _posts/2016-04-24-modelunholyvirtuoso-muahthebirdbones-latex-by-sensoryde.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
