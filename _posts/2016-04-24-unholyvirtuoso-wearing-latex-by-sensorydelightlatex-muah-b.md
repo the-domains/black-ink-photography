@@ -1,18 +1,19 @@
 ---
+datePublished: '2016-09-02T06:58:04.383Z'
+sourcePath: >-
+  _posts/2016-04-24-unholyvirtuoso-wearing-latex-by-sensorydelightlatex-muah-b.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/BET1ayeHk6h/?taken-by=deviousrex&hl=en'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: '@unholyvirtuoso wearing latex by @sensorydelightlatex MUAH by @thebirdbones'
-datePublished: '2016-04-24T19:35:13.509Z'
-dateModified: '2016-04-24T19:35:06.659Z'
+related: []
 author:
   - name: deviousrex
     url: 'https://www.instagram.com/deviousrex'
     avatar: {}
-related: []
+dateModified: '2016-09-02T06:58:04.038Z'
+title: Vincent Noir
 app_links:
   - url: 'instagram://media?id=1230562060566154913'
     type: ios
@@ -28,18 +29,19 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: Vincent Noir
-sourcePath: _posts/2016-04-24-unholyvirtuoso-wearing-latex-by-sensorydelightlatex-muah-b.md
-published: true
-authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico
+description: Vincent Noir wearing latex by Sensory Delight Latex with MUAH by Gina Campbell
+inLanguage: null
+inNav: false
+via: {}
 starred: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
 ![@unholyvirtuoso wearing latex by @sensorydelightlatex MUAH by @thebirdbones](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec73118f1319213b070a8ba03adf45c4d754365.jpg)
