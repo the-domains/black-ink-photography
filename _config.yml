@@ -1,19 +1,4 @@
-name: Black Ink Photography
-favicon: null
-layout_spectrum: 0.99579
 typography_spectrum: 0.50211
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ebf4f1'
@@ -25,4 +10,23 @@ color:
   lightness: 0.3468316993676126
   saturation: 0.5
   rhythmicContrast: 0.7274782527238131
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99579
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Black Ink Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Store
+    url: 'https://www.galloree.com/FB/Black-Ink-Photography-Merch-6183.htm'
+    type: external
+favicon: null
 purpose: []
